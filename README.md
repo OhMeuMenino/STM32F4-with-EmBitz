@@ -17,12 +17,17 @@ Enjoy it :)
 If you want, you can just use the StartProject and skip this step
 ```
 
-File-> New Project -> choose stm32f429zi (the microcontroller used on discovery board).
-Make sure you select the standart peripheral library!
+File-> New Project -> choose STM32F429ZI (the microcontroller used on discovery board).
+
+Make sure you select the Standart Peripherals Library!
 
 ### Write on microcontroller
 
-When everything is done, you can click on debug button to compile the code and programing the microncontroller. If is everything ok EmBitz will open a new file (in assembely), ignore it for now. Click on Continue and you will see your code working on.
+When everything is done, you can click on debug button (top bar) to compile the code and programing the microncontroller.
+
+If is everything ok EmBitz will open a new file (in assembely), ignore it for now.
+
+Click on Continue and you will see your code working on.
 
 ## Contributing
 
