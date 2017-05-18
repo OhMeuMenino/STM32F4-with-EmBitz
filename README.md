@@ -28,12 +28,31 @@ When everything is done, you can click on debug button to compile the code and p
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
+*File-> New Project -> choose STM32F429ZI* (the microcontroller used on discovery board).
+
+Make sure you select the Standart Peripherals Library!
+
+### Write code
+
+In the project tree *Sources -> src* you will find the main.c 
+
+### Write on microcontroller
+
+When everything is done, you can click on debug button (top bar) to compile the code and programing the microncontroller.
+
+If is everything ok EmBitz will open a new file (in assembely), ignore it for now.
+
+Click on Continue and you will see your code working on.
+
+## Contributing
+
+Feel free to pull request 
+
 ## Authors
 
 * **Daniel Oliveira** - [OhMeuMenino](https://github.com/OhMeuMenino)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
