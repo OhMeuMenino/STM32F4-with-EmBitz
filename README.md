@@ -17,9 +17,13 @@ Enjoy it :)
 If you want, you can just use the StartProject and skip this step
 ```
 
-File-> New Project -> choose STM32F429ZI (the microcontroller used on discovery board).
+*File-> New Project -> choose STM32F429ZI* (the microcontroller used on discovery board).
 
 Make sure you select the Standart Peripherals Library!
+
+### Write code
+
+In the project tree *Sources -> src* you will find the main.c 
 
 ### Write on microcontroller
 
