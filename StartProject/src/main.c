@@ -28,7 +28,7 @@ int main(void)
     int i=1000000;
     while(1)
     {
-        GPIO_ToggleBits(GPIOG,13);
+        GPIO_ToggleBits(GPIOG, GPIO_Pin_13);
         for(i=1000000;i>0;i--);
     }
 
