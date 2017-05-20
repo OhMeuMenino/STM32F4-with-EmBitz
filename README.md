@@ -1,7 +1,7 @@
 # STM32F4 with EmBitz  
 ![EmBitz](https://github.com/OhMeuMenino/STM32F4-with-EmBitz/blob/master/images/EmBitz.png)
 
-This repo is a guide to start developing projects with STM32F3 Discovery board and EmBitz IDE.
+This repo is a guide to start developing projects with STM32F4 Discovery board and EmBitz IDE.
 Using the standart libraries, there ares examples how to configure and use the peripherals in a easy way. Probably this examples could be applied to others ARM microcontrolers.
 Enjoy it :)
 
@@ -13,7 +13,7 @@ Enjoy it :)
 
 ## Pre-requisites 
 * Install EmBitz from the official page https://www.embitz.org/
-* STM32F4 Discovery board (or other stm32F4 microcontroller)
+* STM32F4 Discovery board (or other stm32F4xx microcontroller)
 
 ## Getting Started
 
