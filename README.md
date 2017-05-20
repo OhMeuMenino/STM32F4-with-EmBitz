@@ -5,6 +5,12 @@ This repo is a guide to start developing projects with STM32F3 Discovery board a
 Using the standart libraries, there ares examples how to configure and use the peripherals in a easy way. Probably this examples could be applied to others ARM microcontrolers.
 Enjoy it :)
 
+## Contents
+
+* [StartProject](./StartProject) - Start project for STM32F429ZI
+* [TimerCounter](./TimerCounter) - Timer configuration
+* [TimerNVIC](./TimerNVIC) - Timer configuration and interrupt
+
 ## Pre-requisites 
 * Install EmBitz from the official page https://www.embitz.org/
 * STM32F4 Discovery board (or other stm32F4 microcontroller)
