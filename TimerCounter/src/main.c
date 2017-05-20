@@ -1,7 +1,8 @@
 /*
  Timer Counter
 
- This projects configure the timer 9 (TIM9) as counter and blink the LED3 (PG13)
+ This projects configure the timer 9 (TIM9) as counter
+ and blink the LED3 (PG13)
 
 **********************************************************************
 
